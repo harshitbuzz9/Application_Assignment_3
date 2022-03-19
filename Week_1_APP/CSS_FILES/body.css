@@ -1,0 +1,15 @@
+.card{
+    margin: 190px 100px 160px 30px;
+    
+}
+.card-title{
+    margin: 10px 10px;
+    font-size:medium;
+}
+.card1{
+    margin: -500px -210px -216px 520px;
+}
+.card2{
+    margin: -337px 620px 200px 1070px;
+}
+body {background-color: coral;}
